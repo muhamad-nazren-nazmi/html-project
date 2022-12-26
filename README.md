@@ -52,6 +52,10 @@ Color: #023020 and #f0f8ff and #cd7432
 
 Font: Le Petit Cochon and Open Sans
 
+Images are obtained from [shutterstock](https://www.shutterstock.com/)
+
+The watermark is removed by [watermarkremover](https://www.watermarkremover.io/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
